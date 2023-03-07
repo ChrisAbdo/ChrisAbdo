@@ -1,9 +1,6 @@
 Hi 👋 My name is Christopher Abdo
 =================================
 
-Full Stack Web3 Developer
------------------------------------------
-
 Welcome to my GitHub! Join me through this amazing journey of web development. Below you can find some more information about me and my pinned projects! These are the projects I had the most fun working on and loved sharing to the world!
 
 * 🌍  I'm based in Philadelphia
